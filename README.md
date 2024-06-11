@@ -8,7 +8,7 @@
 <img src="https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/572946cc-5657-4f20-9dd7-36cd6452159d" width="40%" height="40%">
 
 - Mobile APP : Bluetooth Elctrioncs
-<img src="!https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/cec99930-cbc3-4b01-896a-8098d7e2a9a9" width="40%" height="40%">
+<img src="https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/46f7ecda-fb00-493d-9111-7530195a559b" width="40%" height="40%">
 
   
 ## 사용자 요구사항
