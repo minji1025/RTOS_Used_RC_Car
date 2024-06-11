@@ -1,0 +1,4 @@
+../Core/driver/LED/LED.c:10:6:led_init	24	static
+../Core/driver/LED/LED.c:15:6:led_on	16	static
+../Core/driver/LED/LED.c:18:6:led_off	16	static
+../Core/driver/LED/LED.c:21:6:led_toggle	16	static

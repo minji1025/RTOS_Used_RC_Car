@@ -1,0 +1,2 @@
+../Core/Common/Delayus/delayus.c:10:6:DelayInit	1
+../Core/Common/Delayus/delayus.c:25:6:DelayUS	2

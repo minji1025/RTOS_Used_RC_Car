@@ -1,0 +1,12 @@
+../Core/driver/UltraSonic/UltraSonic.c:11:6:UltraSonic_init	1
+../Core/driver/UltraSonic/UltraSonic.c:23:5:UltraSonic_isCmpltRecvEcho	1
+../Core/driver/UltraSonic/UltraSonic.c:26:6:UltraSonic_clearEchoFlag	1
+../Core/driver/UltraSonic/UltraSonic.c:29:6:UltraSonic_setEchoFlag	1
+../Core/driver/UltraSonic/UltraSonic.c:32:5:UltraSonic_getEchopinState	1
+../Core/driver/UltraSonic/UltraSonic.c:35:6:UltraSonic_clearTimer	1
+../Core/driver/UltraSonic/UltraSonic.c:38:6:UltraSonic_startTimer	1
+../Core/driver/UltraSonic/UltraSonic.c:41:6:UltraSonic_stopTimer	1
+../Core/driver/UltraSonic/UltraSonic.c:44:10:UltraSonic_getTimerCounter	1
+../Core/driver/UltraSonic/UltraSonic.c:48:6:UltraSonic_startTrig	1
+../Core/driver/UltraSonic/UltraSonic.c:54:6:UltraSonic_ISR_Process	3
+../Core/driver/UltraSonic/UltraSonic.c:70:5:UltraSonic_getDistance	3

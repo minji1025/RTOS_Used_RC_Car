@@ -1,0 +1,3 @@
+../Core/ap/model/USDistanceModel.c:12:6:USDistanc_init	1
+../Core/ap/model/USDistanceModel.c:18:6:USDistance_set	1
+../Core/ap/model/USDistanceModel.c:24:14:USDistance_get	1

@@ -1,0 +1,11 @@
+../Core/ap/presenterTask/Presenter.c:12:6:Presenter_Init	24	static
+../Core/ap/presenterTask/Presenter.c:22:6:Presenter_excuteTask	16	static
+../Core/ap/presenterTask/Presenter.c:34:6:Presenter_Mode_setState	16	static
+../Core/ap/presenterTask/Presenter.c:49:6:Presenter_Manual_setState	16	static
+../Core/ap/presenterTask/Presenter.c:75:6:Presenter_CarGo	8	static
+../Core/ap/presenterTask/Presenter.c:80:6:Presenter_CarStop	8	static
+../Core/ap/presenterTask/Presenter.c:85:6:Presenter_CarLeft	8	static
+../Core/ap/presenterTask/Presenter.c:91:6:Presenter_CarRight	8	static
+../Core/ap/presenterTask/Presenter.c:97:6:Presenter_CarBack	8	static
+../Core/ap/presenterTask/Presenter.c:103:6:Presenter_CarSpeed	40	static
+../Core/ap/presenterTask/Presenter.c:111:6:Presenter_Auto_setState	16	static

@@ -1,0 +1,5 @@
+../Core/driver/Motor/Motor.c:11:6:Motor_init	24	static
+../Core/driver/Motor/Motor.c:22:6:Motor_stop	16	static
+../Core/driver/Motor/Motor.c:26:6:Motor_forward	16	static
+../Core/driver/Motor/Motor.c:31:6:Motor_backward	16	static
+../Core/driver/Motor/Motor.c:37:6:Motor_setSpeed	16	static

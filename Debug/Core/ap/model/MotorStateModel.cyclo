@@ -1,0 +1,9 @@
+../Core/ap/model/MotorStateModel.c:12:6:MotorState_init	1
+../Core/ap/model/MotorStateModel.c:18:6:MotorState_setSpeed	1
+../Core/ap/model/MotorStateModel.c:21:5:MotorState_getSpeed	1
+../Core/ap/model/MotorStateModel.c:26:6:MotorManualState_set	1
+../Core/ap/model/MotorStateModel.c:29:9:MotorManualState_get	1
+../Core/ap/model/MotorStateModel.c:33:6:MotorState_setFlag	1
+../Core/ap/model/MotorStateModel.c:36:5:MotorState_getFlag	1
+../Core/ap/model/MotorStateModel.c:40:6:MotorAutoState_set	1
+../Core/ap/model/MotorStateModel.c:43:9:MotorAutoState_get	1

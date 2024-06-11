@@ -1,0 +1,9 @@
+../Core/ap/controllerTask/Controller.c:14:6:Controller_init	1
+../Core/ap/controllerTask/Controller.c:19:6:Controller_excuteTask	2
+../Core/ap/controllerTask/Controller.c:28:6:Controller_BTData	2
+../Core/ap/controllerTask/Controller.c:40:6:Controller_getData	2
+../Core/ap/controllerTask/Controller.c:49:6:Controller_Mode_decision	3
+../Core/ap/controllerTask/Controller.c:60:6:Controller_Mode_parsingData	3
+../Core/ap/controllerTask/Controller.c:71:6:Controller_Manual_parsingData	7
+../Core/ap/controllerTask/Controller.c:95:6:Controller_Auto_parsingData	3
+../Core/ap/controllerTask/Controller.c:106:6:Controller_Auto_DistanceState	7

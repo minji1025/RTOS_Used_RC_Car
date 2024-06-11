@@ -1,0 +1,7 @@
+../Core/Common/Queue/Queue.c:9:6:Que_init	1
+../Core/Common/Queue/Queue.c:17:6:setQueFlag	1
+../Core/Common/Queue/Queue.c:21:5:getQueFlag	1
+../Core/Common/Queue/Queue.c:26:5:QueFull	2
+../Core/Common/Queue/Queue.c:34:5:QueEmpty	2
+../Core/Common/Queue/Queue.c:43:6:enQue	2
+../Core/Common/Queue/Queue.c:52:9:deQue	2
