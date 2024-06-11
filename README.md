@@ -18,7 +18,7 @@
     초음파 센서 측정을 통해 장애물 회피
 
 
-## Escalator FSM
+## RC_Car FSM
 ![image](https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/d4e6e94c-70a1-446d-94c0-0fe85b69010d)
 
 
