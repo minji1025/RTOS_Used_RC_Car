@@ -5,7 +5,7 @@
 <img src="https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/a15d4752-f291-49dd-b138-1d3748eb4f95" width="40%" height="40%">
 
 - Software : ComportMaster
-<img src="https://github.com/minji1025/Integrated_Control_System_ARM/assets/163821451/57db0c4d-3205-46ca-a280-275b49f90040" width="40%" height="40%">
+<img src="https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/572946cc-5657-4f20-9dd7-36cd6452159d" width="40%" height="40%">
 
 - Mobile APP : Bluetooth Elctrioncs
 <img src="!https://github.com/minji1025/RTOS_Used_RC_Car/assets/163821451/cec99930-cbc3-4b01-896a-8098d7e2a9a9" width="40%" height="40%">
