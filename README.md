@@ -23,7 +23,7 @@
 
 
 ## 동작 영상
-QR코드 추가
+https://github.com/minji1025/RTOS_Used_RC_Car/blob/main/RC%20Car.mp4
 
 ## Code
 https://github.com/minji1025/RTOS_Used_RC_Car/tree/master
